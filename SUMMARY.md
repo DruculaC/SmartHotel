@@ -5,8 +5,7 @@
 
 ## 子系统
 
-* [名单](zi-xi-tong/ming-dan.md)
-* [表格1](zi-xi-tong/biao-ge-1.md)
+* [介绍](zi-xi-tong/ming-dan.md)
 
 ## 供应商
 
