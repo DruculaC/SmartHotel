@@ -2,6 +2,7 @@
 
 * [介绍](README.md)
 * [背景](bei-jing.md)
+* [草稿笔记](cao-gao-bi-ji.md)
 
 ## 子系统
 
