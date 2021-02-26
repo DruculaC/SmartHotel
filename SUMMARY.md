@@ -1,8 +1,8 @@
 # Table of contents
 
-* [介绍](README.md)
+* [书籍介绍](README.md)
 * [背景](bei-jing.md)
-* [草稿笔记](cao-gao-bi-ji.md)
+* [智慧酒店概念](zhi-hui-jiu-dian-gai-nian.md)
 
 ## 子系统
 
@@ -20,5 +20,6 @@
 
 ## 参考资料
 
+* [草稿笔记](can-kao-zi-liao/cao-gao-bi-ji.md)
 * [参考资料](can-kao-zi-liao/can-kao-zi-liao.md)
 

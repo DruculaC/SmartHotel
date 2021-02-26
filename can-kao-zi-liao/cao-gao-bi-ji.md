@@ -12,9 +12,9 @@
 
 根据CentricDigital撰写的《商业新模式：企业数字化转型之路》一书中对数字化转型阶段的描述，按照转型价值，转型阶段主要分为朦胧期、反应期、进展期、沉浸期、成熟期5个阶段。
 
-![](.gitbook/assets/tu-pian-%20%282%29.png)
+![](../.gitbook/assets/tu-pian-%20%282%29.png)
 
-![](.gitbook/assets/tu-pian-%20%283%29.png)
+![](../.gitbook/assets/tu-pian-%20%283%29.png)
 
-![](.gitbook/assets/tu-pian-%20%284%29.png)
+![](../.gitbook/assets/tu-pian-%20%284%29.png)
 
